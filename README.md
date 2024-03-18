@@ -1,8 +1,7 @@
 # README
 
-Welcome to the SERP public gh repo. 
+Welcome to the SERP public gh repo. Please go through the following resources if you are looking to work with us:
 
-Here are some resources you should be familiar with if you are looking to work with us.
 
 ## Resources
 
